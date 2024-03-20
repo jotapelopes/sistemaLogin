@@ -1,0 +1,13 @@
+.modal-j-delete{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+
+.titulo {
+display: flex;
+flex-direction: column;
+}
